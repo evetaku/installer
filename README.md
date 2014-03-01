@@ -4,36 +4,31 @@ Automatic Script Installer by KangArie
 ## Usage
 ### Centos 6 32/64bit (OpenVZ VPS)
 ```
-wget https://raw.github.com/arieonline/autoscript/master/centos6.sh
 wget https://raw.github.com/evetaku/installer/master/centos6.sh
 sh centos6.sh
 ```
 
 ### Centos 6 32/64bit (KVM VPS)
 ```
-wget https://raw.github.com/arieonline/autoscript/master/centos6-kvm.sh
 https://raw.github.com/evetaku/installer/master/centos6-kvm.sh
 sh centos6-kvm.sh
 ```
 
 ### Debian 6 32/64bit (OpenVZ VPS)
 ```
-wget https://raw.github.com/arieonline/autoscript/master/debian6.sh
 wget https://raw.github.com/evetaku/installer/master/debian6.sh
 sh debian6.sh
 ```
 
 ### Debian 7 32/64bit (OpenVZ VPS)
 ```
-wget https://raw.github.com/arieonline/autoscript/master/debian7.sh
 https://raw.github.com/evetaku/installer/master/debian7.sh
 sh debian7.sh
 ```
 
 ### Ubuntu 13.04 32/64bit (KVM VPS)
 ```
-wget https://raw.github.com/arieonline/autoscript/master/ubuntu1304-kvm.sh
-https://raw.github.com/evetaku/installer/master/ubuntu1304-kvm.sh
+wget https://raw.github.com/evetaku/installer/master/ubuntu1304-kvm.sh
 sh ubuntu1304-kvm.sh
 ```
 

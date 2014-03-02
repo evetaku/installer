@@ -8,6 +8,13 @@ wget https://raw.github.com/evetaku/installer/master/centos6.sh
 sh centos6.sh
 ```
 
+## Usage
+### Centos 6 32/64bit (OpenVZ VPS) versi 2
+```
+wget https://raw.github.com/evetaku/installer/master/centos6v2.sh
+sh centos6.sh
+```
+
 ### Centos 6 32/64bit (KVM VPS)
 ```
 https://raw.github.com/evetaku/installer/master/centos6-kvm.sh
